@@ -9,6 +9,7 @@ public class Moon : MonoBehaviour
 
     void Update()
     {
+        
         transform.RotateAround(Earth.transform.position, Vector3.down, speed * Time.deltaTime);
 
     }
