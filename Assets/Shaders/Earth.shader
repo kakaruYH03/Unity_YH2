@@ -1,4 +1,4 @@
-﻿Shader "YH/Moon"
+﻿Shader "YH/Earth"
 {
     Properties
     {
