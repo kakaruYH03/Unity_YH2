@@ -382,7 +382,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Earth: {fileID: 1862741811}
-  speed: 2
+  speed: 50
 --- !u!1 &1862741811
 GameObject:
   m_ObjectHideFlags: 0
